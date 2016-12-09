@@ -1,0 +1,22 @@
+{
+	"name": "tinymce-skin-modern-light-flat",
+	"version": "1.0.0",
+	"description": "A light flat skin for the theme \"modern\" of tinymce 4.x",
+	"main": "tinymce.js",
+	"license": "MIT",
+	"keywords": [
+        "tinymce",
+        "skin",
+        "theme",
+        "bower",
+        "javascript",
+        "open-source"
+	],
+    "contributors": [
+        "Rémi Becheras <rbecheras@sirap.fr>",
+        "Ole Daniel Evensen <ole_daniel_evensen@hotmail.com>"
+    ],
+	"bugs": {
+		"url": "https://github.com/dazzy/tinymce-skin-modern-light-flat/issues"
+	}
+}
